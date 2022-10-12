@@ -1,0 +1,16 @@
+link para download do git para windows :
+https://gitforwindows.org/
+
+link para download do git para mac os :
+https://git-scm.com/download/mac
+
+link para download do git para linux : 
+
+https://git-scm.com/download/linux
+
+-------------------------------------------------------
+
+O Git Bash é um terminal extendido para otimizar o Git
+
+-------------------------------------------------------
+
