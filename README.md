@@ -2,4 +2,4 @@
 novo repositório para o projeto da dio.me
 
 ##Links úteis
-[Sintaxe Básica Markdown(https://www.markdownguide.org/basic-syntax/)]
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
